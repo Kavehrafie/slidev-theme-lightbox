@@ -49,3 +49,4 @@ This theme provides the following components:
 - `npm run export` to generate the preview PDF
 - `npm run screenshot` to generate the preview PNG
 # slidev-theme-lightbox
+# slidev-theme-lightbox
